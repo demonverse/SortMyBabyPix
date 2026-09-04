@@ -9,6 +9,6 @@ python "D:\organize_photos.py"
 python "D:\organize_videos.py"
 python "D:\organize_spares.py"
 
-
+Updated: Stops windows going to sleep & adds in-task updates & a report (files copied, files skipped) stored in target folder when done - handy for smaller jobs/checking what's been done
 
 
